@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.9.0](https://github.com/open-feature/kotlin-sdk/compare/v0.8.0...v0.9.0) (2026-04-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* Adding Long type support ([#225](https://github.com/open-feature/kotlin-sdk/issues/225))
+
+### ✨ New Features
+
+* Adding Long type support ([#225](https://github.com/open-feature/kotlin-sdk/issues/225)) ([37bdea7](https://github.com/open-feature/kotlin-sdk/commit/37bdea76ba2aa8b2ff7cde443cfd676039c6d92c))
+
+
+### 📚 Documentation
+
+* mark Logging as complete, Domains as in-progress in feature table ([#236](https://github.com/open-feature/kotlin-sdk/issues/236)) ([f50d9d9](https://github.com/open-feature/kotlin-sdk/commit/f50d9d9c342a1b319e223eb3b3e1074d81a60fcb))
+
 ## [0.8.0](https://github.com/open-feature/kotlin-sdk/compare/v0.7.2...v0.8.0) (2026-04-21)
 
 
